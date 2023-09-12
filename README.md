@@ -25,7 +25,8 @@ The Octanet Web Development Internship program is designed to help you learn and
 
 Here is a list of tasks I have completed during the internship:
 
-1. **Responsive Landing Page**: Designed a responsive landing page for a VPN service.
+1. **Responsive Landing Page** : Designed a responsive landing page for a VPN service.
+2. **TODO List** : Designed a todo list to note down the tasks
 
 ## Getting Started
 
